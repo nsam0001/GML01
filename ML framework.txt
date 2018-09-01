@@ -1,0 +1,26 @@
+
+TODO: write config scripts that automate as much of this as possible
+
+[loader]
+
+[cleaning - data formats, imputation, outliers, sufficient rows, cold start, one hot encoding]
+
+[features - new features, derived features, feature crosses]
+
+[feature testing]
+
+[shuffle data, then train/test/evaluate split]
+
+[training]
+
+[evaluating]
+
+[testing]
+
+[+ hyperparameter tuning] (grid search first, then the naive bayes one)
+
+[log benchmark]
+
+[persist model]
+
+
